@@ -1,0 +1,4 @@
+# Ignore Webpack Config File & eslint
+.eslintrc.js
+webpack.dev.js
+bundle.js
